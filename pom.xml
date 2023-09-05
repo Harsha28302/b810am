@@ -119,7 +119,7 @@
                     <version>3.2.2</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>devops</warName>
+                        <warName>realme</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
@@ -142,6 +142,6 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>devops</finalName>
+        <finalName>realme</finalName>
     </build>
 </project>
